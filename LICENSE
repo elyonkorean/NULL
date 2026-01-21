@@ -1,3 +1,8 @@
+* https://github.com/intel/cve-bin-tool/blob/v3.4/cve_bin_tool/extractor.py#L167
+* https://github.com/intel/cve-bin-tool/blob/v3.4/cve_bin_tool/extractor.py#L277
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
+
 Eclipse Public License - v 2.0
 
     THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE
